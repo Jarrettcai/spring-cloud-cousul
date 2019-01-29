@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-service" />
+        <module name="gateway-service" />
+        <module name="monitoring-service" />
+        <module name="product-service" />
+        <module name="ribbon-service" />
+        <module name="sleuth-service" />
+        <module name="turbine-service" />
+        <module name="user-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-service" target="1.8" />
+      <module name="gateway-service" target="1.8" />
+      <module name="monitoring-service" target="1.8" />
+      <module name="product-service" target="1.8" />
+      <module name="ribbon-service" target="1.8" />
+      <module name="sleuth-service" target="1.8" />
+      <module name="spring-cloud-cousul" target="1.5" />
+      <module name="turbine-service" target="1.8" />
+      <module name="user-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
