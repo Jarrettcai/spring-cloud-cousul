@@ -1,6 +1,6 @@
 # spring-cloud-demo
 
-一款基于 SpringCloud 组件构建的分布式服务架构（持续更新），可以作学习之用
+一款基于 SpringCloud 组件构建的分布式服务架构（持续更新）
 
 SpringCloud 版本 Finchley.RC1
 
